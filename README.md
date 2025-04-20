@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/reda1550/reda1550/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
