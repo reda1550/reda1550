@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Red Belmoudden, and I'm a passionate full-stack developer from Morocco.</h2>
+<h2 align="left">Hi 👋! My name is Reda Belmoudden, and I'm a passionate full-stack developer from Morocco.</h2>
 
 ###
 
